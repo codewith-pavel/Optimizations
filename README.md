@@ -86,9 +86,3 @@ Post-training quantization reduces model size by **91.81%**, enabling deployment
 | Quantized Distilled Model      | 91.81%         | 61 ms/step    | 15 ms/step     |
 
 ---
-
-## 🛠️ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/codewith-pavel/Optimizations.git
-   cd Optimizations
