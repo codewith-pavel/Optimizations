@@ -79,8 +79,6 @@ Post-training quantization compresses the model by **91.81%**, making it highly 
 7. **Explainability via Grad-CAM, Score-CAM, LIME**
 8. **Expert Validation of XAI Outputs**
 
-![Pipeline](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
-
 ---
 
 ## 📈 Results
